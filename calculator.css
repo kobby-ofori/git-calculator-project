@@ -1,0 +1,14 @@
+tr {
+  background-color: rgba(128, 128, 128, 0.075);
+  font-size: 40px;
+}
+
+.tab-head {
+  background-color: gray;
+  color: white;
+}
+
+.td-yellow {
+  background-color: orange;
+  color: white;
+}
